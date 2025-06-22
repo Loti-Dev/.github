@@ -1,6 +1,6 @@
 <div align="center">
-  <div style="width: 100%; max-width: 500px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
-    <img src="https://cdn.loti.dev/assets/loti.png" alt="banner" style="width: 100%; height: auto;" />
+  <div style="width: 100%; max-width: 250px; max-height: 250px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
+    <img src="https://cdn.loti.dev/assets/loti.png" alt="banner" style="width: 100%; height: 100%;" />
   </div>
 
 # Loti
