@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
+  <div style="width: 100%; max-width: 500px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
     <img src="https://cdn.loti.dev/assets/loti.png" alt="banner" style="width: 100%; height: auto;" />
   </div>
 
