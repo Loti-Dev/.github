@@ -14,3 +14,5 @@ Step into a new era of server management, community engagement, and powerful aut
 - Email: **support@loti.dev**
 - Discord: [Join our server](https://discord.gg/relate)
 - Twitter: [@lotibot](https://twitter.com/lotibot)
+
+### Operated by LOTI.DEV LLC (C1544011)
